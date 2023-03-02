@@ -1,0 +1,4 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\yapro\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yapro\source\repos\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.cpp(393,15): warning C4101: B: неиспользованная локальная переменная
+  ConsoleApplication12.vcxproj -> C:\Users\yapro\source\repos\ConsoleApplication12\Debug\ConsoleApplication12.exe
